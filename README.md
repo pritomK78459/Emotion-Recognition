@@ -58,9 +58,9 @@ To run tests on images, run the following command
 
 ![App Screenshot](https://github.com/pritomK78459/Emotion-Recognition/blob/master/emotion_recognition_api/sample_images/happy.jpg)
 
-![App Screenshot](https://raw.githubusercontent.com/pritomK78459/Emotion-Recognition/master/emotion_recognition_api/sample_images/surprise.jpg?token=GHSAT0AAAAAABR2MZDMJGAJ46VPHK6RH7PYYQURVZA)
+![App Screenshot](https://github.com/pritomK78459/Emotion-Recognition/blob/master/emotion_recognition_api/sample_images/fear.jpg)
 
-![App Screenshot](https://raw.githubusercontent.com/pritomK78459/Emotion-Recognition/master/emotion_recognition_api/sample_images/fear.jpg?token=GHSAT0AAAAAABR2MZDMZV6DJ7WBP65FG6NOYQURWOQ)
+![App Screenshot](https://github.com/pritomK78459/Emotion-Recognition/blob/master/emotion_recognition_api/sample_images/surprise.jpg)
 ## Running Tests
 
 To run tests on ivideos, run the following command
@@ -72,7 +72,7 @@ To run tests on ivideos, run the following command
 
 ## Sample Video
 
-![App Screenshot](https://raw.githubusercontent.com/pritomK78459/Emotion-Recognition/master/emotion_recognition_api/sample_videos/result_video.gif?token=GHSAT0AAAAAABR2MZDMSQRWTHQNZQNT7PYAYQUSB2A)
+![App Screenshot](https://github.com/pritomK78459/Emotion-Recognition/blob/master/emotion_recognition_api/sample_videos/result_video.gif)
 
 
 ## Use models
@@ -155,7 +155,7 @@ Start frontend server
   npm start
 ```
 
-![webapp screenshot](https://raw.githubusercontent.com/pritomK78459/Emotion-Recognition/master/emotion_recognition_api/sample_images/webapp_screenshot.png?token=GHSAT0AAAAAABR2MZDN5XHZ275M7SWHKOLEYQUTAHQ)
+![webapp screenshot](https://github.com/pritomK78459/Emotion-Recognition/blob/master/emotion_recognition_api/sample_images/webapp_screenshot.png)
 
 ## Authors
 
