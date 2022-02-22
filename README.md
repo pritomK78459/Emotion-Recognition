@@ -56,7 +56,7 @@ To run tests on images, run the following command
 
 ## Sample Images
 
-![App Screenshot](https://raw.githubusercontent.com/pritomK78459/Emotion-Recognition/master/emotion_recognition_api/sample_images/happy.jpg?token=GHSAT0AAAAAABR2MZDN2B76VTDQLBU2NHBGYQURTMA)
+![App Screenshot](https://github.com/pritomK78459/Emotion-Recognition/blob/master/emotion_recognition_api/sample_images/happy.jpg)
 
 ![App Screenshot](https://raw.githubusercontent.com/pritomK78459/Emotion-Recognition/master/emotion_recognition_api/sample_images/surprise.jpg?token=GHSAT0AAAAAABR2MZDMJGAJ46VPHK6RH7PYYQURVZA)
 
